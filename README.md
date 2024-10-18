@@ -7,8 +7,6 @@ Este repositório contém meus estudos e práticas com a linguagem de programaç
 - [Sobre Kotlin](#sobre-kotlin)
 - [Estrutura do Repositório](#estrutura-do-repositório)
 - [Como Executar os Exemplos](#como-executar-os-exemplos)
-- [Contribuições](#contribuições)
-- [Referências](#referências)
 
 ## Sobre Kotlin
 
